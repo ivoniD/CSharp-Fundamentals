@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "vUBTtPnMhudluEYQHdERvMr7ffK3rGrq1YKmzUwRatly1zaLgLQKXH/zWrCgu6AAme+387QtArpgyx6B7i/acA==",
+  "dgSpecHash": "y5uHZTE6R9r+iPVmUf6Wf4VaVFZm461BPSp9dJAe0jM5zeeR0NF33NmquECr2qekkBJN26ZaSyCjgKiQf5vb0g==",
   "success": true,
-  "projectFilePath": "D:\\1. SCHOOL\\_EX\\C-Shar-FUNDAMENTALS\\CSharp-Fundamentals\\05. Login\\05. Login.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\1. SCHOOL\\old\\IVON_C#\\Fundamentals\\proj\\Fundamentals_1\\05. Login\\05. Login.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC-Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\PC-Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\PC-Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\PC-Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

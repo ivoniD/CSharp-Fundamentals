@@ -9,12 +9,12 @@ namespace _05._Login
             string username = Console.ReadLine();
             string pass = String.Empty;
 
-            for (int i = username.Length - 1; i >= 0; i--)
+            for (int i = username.Length -1 ; i >= 0; i--)
             {
                 pass += username[i];
             }
 
-            for (int counter = 1; counter <= 4; counter++)
+            for (int counter = 1; counter <=4; counter++)
             {
                 string tryTolog = Console.ReadLine();
                 if (tryTolog == pass)
@@ -32,7 +32,7 @@ namespace _05._Login
                     Console.WriteLine("Incorrect password. Try again.");
                     continue;
                 }
-
+                
             }
         }
     }
